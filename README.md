@@ -224,3 +224,4 @@ sns.heatmap(df5.corr(),cmap="PuBu",annot=True)
 plt.show()
 ```
 # OUPUT
+![o](
