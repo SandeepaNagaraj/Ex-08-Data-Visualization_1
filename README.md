@@ -267,9 +267,9 @@ plt.show()
 
 ![O](17.png)
 
-#### Histograms:
-
 ![O](18.png)
+
+### Histograms:
 
 ![O](19.png)
 
@@ -279,9 +279,9 @@ plt.show()
 
 ![O](22.png)
 
-![O](23.png)
-
 ### Count plots:
+
+![O](23.png)
 
 ![O](24.png)
 
@@ -291,9 +291,9 @@ plt.show()
 
 ![O](27.png)
 
-![O](28.png)
-
 ### Bar Charts:
+
+![O](28.png)
 
 ![O](29.png)
 
@@ -355,3 +355,6 @@ plt.show()
 ### HeatMap:
 
 ![O](54.png)
+
+## Result:
+Hence,Data Visualization is applied on the complex dataset using libraries like Seaborn and Matplotlib successfully and the data is saved to file
