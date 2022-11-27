@@ -224,4 +224,71 @@ sns.heatmap(df5.corr(),cmap="PuBu",annot=True)
 plt.show()
 ```
 
+### OUTPUT
+#### Initial Dataset:
+![O](1.png)
+#### Cleaned Dataset:
+![O](2.png)
+![O](3.png)
+#### Removing Outliers:
+![O](4.png)
+![O](5.png)
+#### Line PLot:
 
+![O](7.png)
+![O](8.png)
+![O](9.png)
+![O](10.png)
+![O](11.png)
+#### Bar PLot:
+![O](12.png)
+![O](13.png)
+![O](14.png)
+![O](15.png)
+![O](16.png)
+![O](17.png)
+#### Histograms:
+![O](18.png)
+![O](19.png)
+![O](20.png)
+![O](21.png)
+![O](22.png)
+#### Count plots:
+![O](23.png)
+![O](24.png)
+![O](25.png)
+![O](26.png)
+![O](27.png)
+#### Bar Charts:
+![O](28.png)
+![O](29.png)
+![O](30.png)
+![O](31.png)
+![O](32.png)
+![O](33.png)
+![O](34.png)
+![O](35.png)
+### KDE plots
+![O](36.png)
+![O](37.png)
+![O](38.png)
+![O](39.png)
+#### Violin Plot:
+![O](40.png)
+![O](41.png)
+![O](42.png)
+![O](43.png)
+#### Point Plots:
+![O](44.png)
+![O](45.png)
+![O](46.png)
+#### Pie Charts:
+![O](47.png)
+![O](48.png)
+![O](49.png)
+![O](50.png)
+![O](51.png)
+![O](52.png)
+![O](53.png)
+#### HeatMap:
+![O](54.png)
